@@ -1,0 +1,6 @@
+framework module Pods_XDBusiness_Category_Example {
+  umbrella header "Pods-XDBusiness_Category_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

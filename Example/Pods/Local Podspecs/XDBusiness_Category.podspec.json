@@ -1,0 +1,27 @@
+{
+  "name": "XDBusiness_Category",
+  "version": "0.1.0",
+  "summary": "A short description of XDBusiness_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhuzhiwen/XDBusiness_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhuzhiwen": "zhuzhiwen@fancydigital.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/zhuzhiwen/XDBusiness_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XDBusiness_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
